@@ -1,0 +1,16 @@
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\bin\Debug\TP1 PBO.exe.config
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\bin\Debug\TP1 PBO.exe
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\bin\Debug\TP1 PBO.pdb
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\TP1 PBO.csprojAssemblyReference.cache
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\MainWindow.g.cs
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\App.g.cs
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\TP1 PBO_MarkupCompile.cache
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\TP1 PBO_MarkupCompile.lref
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\MainWindow.baml
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\TP1 PBO.g.resources
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\TP1_PBO.Properties.Resources.resources
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\TP1 PBO.csproj.GenerateResource.cache
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\TP1 PBO.exe
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\TP1 PBO.pdb
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\MenuBeli.g.cs
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\MenuBeli.baml

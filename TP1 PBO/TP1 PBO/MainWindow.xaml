@@ -1,0 +1,15 @@
+﻿<Window x:Class="TP1_PBO.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TP1_PBO"
+        mc:Ignorable="d"
+        Title="Login" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="text_Username" HorizontalAlignment="Left" Height="23" Margin="354,143,0,0" TextWrapping="Wrap" Text="Username" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="text_Password" HorizontalAlignment="Left" Height="23" Margin="354,217,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btn_Login" Content="Login" HorizontalAlignment="Left" Margin="380,281,0,0" VerticalAlignment="Top" Width="75" Click="btn_Login_Click"/>
+
+    </Grid>
+</Window>
