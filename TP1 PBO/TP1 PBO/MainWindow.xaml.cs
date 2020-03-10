@@ -27,10 +27,15 @@ namespace TP1_PBO
 
         private void btn_Login_Click(object sender, RoutedEventArgs e)
         {
-            if ((text_Username.Text=="MasProxy")&&(text_Password.Text== "pbo123")) {
+            //pengecekan akun
+            if ((text_Password.Password.ToString()=="pbo123"))
+            {
                 Window1 Menubeli = new Window1();
                 Menubeli.Show();
                 this.Close();
+            }
+            else {//apabila akun salah
+                MessageBox.Show("Maaf Akun Anda Tidak Valid");
             }
         }
     }

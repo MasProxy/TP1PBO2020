@@ -1,0 +1,22 @@
+/*Saya Afif Alfauzan mengerjakan TP1 dalam mata kuliah Pemograman Berbasis Objek
+ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*/
+
+Kesulitan:
+- Menerapkan foreach pada array of object untuk melakukan sorting harga dan jenis barang
+- Membuat element dinamicaly
+- Membuat action dari button yang di generate oleh foreachs
+
+hal baru:
+- Menggunakan wpf untuk mendesain tampilan, walaupun belum sempat eksplorasi karena kurang waktu untuk mendesign
+- Belajar menggunakan array of object
+- Belajar foreach untuk kelas
+
+Fitur yang sudah dikerjakan:
+- Fitur login yang mana akan lanjut ke menu beli apabila password berupa "pbo123".
+- Apabila akun salah, maka akan muncul notifikasi.
+- Menu pembeli sudah terintegrasi dengan menu beli, dengan menggunakan frame untuk loading menunya.
+- Barang sudah bisa ditampilkan, sudah memakai foreach.
+- Apabila tombol menu katalog ditekan, maka akan merujuk ke tokopedia.
+- Apabila tombol logout ditekan maka akan kembali ke menu login
+- Dropdown Jenis Barang dan Ranged Harga sudah di tempatkan dan berhasil digunakan
+- Penerapan tombol+icon

@@ -1,0 +1,34 @@
+﻿<Window x:Class="TP1_PBO.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TP1_PBO"
+        mc:Ignorable="d"
+        Title="Window1" Height="600" Width="837.587" Loaded="Window_Loaded" ResizeMode="NoResize">
+    <Grid>
+
+        <Rectangle Fill="#FF475157" HorizontalAlignment="Left" Height="571" Stroke="Black" VerticalAlignment="Top" Width="130" StrokeThickness="0"/>
+        <Frame x:Name="frame" Content="Frame" HorizontalAlignment="Left" Height="486" Margin="147,16,0,0" VerticalAlignment="Top" Width="662" NavigationUIVisibility="Hidden"/>
+        <Button x:Name="button"  HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Width="110" Click="button_Click" Height="30" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" FontSize="15">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="money.png" Width="20" Height="20" Margin="0,0,18,0"/>
+                <TextBlock Text="Menu Beli" VerticalAlignment="Center" />
+            </StackPanel>
+        </Button>
+        <Button x:Name="button1"  HorizontalAlignment="Left" Margin="11,116,0,0" VerticalAlignment="Top" Width="110" Click="button1_Click" Height="30" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="catalog.png" Width="20" Height="20" Margin="0,0,5,0"/>
+                <TextBlock Text="Menu Katalog" VerticalAlignment="Center" FontSize="15" />
+            </StackPanel>
+        </Button>
+        <Button x:Name="button2"  HorizontalAlignment="Left" Margin="12,522,0,0" VerticalAlignment="Top" Width="110" Click="button2_Click" FontSize="16" FontWeight="Bold" Foreground="{x:Null}" Background="{x:Null}" BorderBrush="{x:Null}">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="logout.png" Width="20" Height="20" Margin="0,0,5,0"/>
+                <TextBlock Text="Logout" VerticalAlignment="Center" FontSize="15" Foreground="White" />
+            </StackPanel>
+        </Button>
+        <Label x:Name="label" Content="1801527-Afif Alfauzan" HorizontalAlignment="Left" Margin="682,530,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -14,3 +14,6 @@ C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\TP1 PBO.ex
 C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\TP1 PBO.pdb
 C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\MenuBeli.g.cs
 C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\MenuBeli.baml
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\MenuPembeli.g.cs
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\MenuPembeli.baml
+C:\Users\Fauzan\Documents\GitHub\TP1PBO2020\TP1 PBO\TP1 PBO\obj\Debug\TP1_PBO.Aset1.resources
